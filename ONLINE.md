@@ -6,6 +6,7 @@ The project supports a real TinyFish retrieval and small-model path without chan
 export OPENAI_API_KEY=...
 export OPENAI_BASE_URL=https://llm.onerouter.pro/v1
 export LOOKSMAXXING_MODEL=qwen/qwen3.8-27b:free
+export TINYFISH_API_KEY=your-rotated-tinyfish-key
 python3 run_online.py "Does creatine cause hair loss?"
 ```
 
